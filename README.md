@@ -1,2 +1,3 @@
 # hello-world
-Getting started with github
+I'd like to share so R programming on Github.
+Right now I'm reading the tutorial. Therefore, this is just a test.
